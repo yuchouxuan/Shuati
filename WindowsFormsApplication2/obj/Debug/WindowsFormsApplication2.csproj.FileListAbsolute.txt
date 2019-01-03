@@ -7,3 +7,13 @@ c:\users\雨愁轩\documents\visual studio 2015\Projects\WindowsFormsApplication
 c:\users\雨愁轩\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
 c:\users\雨愁轩\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
 c:\users\雨愁轩\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Administrator.SC-201901020915\source\repos\-1\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Administrator.SC-201901020915\source\repos\-1\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Administrator.SC-201901020915\source\repos\-1\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Administrator.SC-201901020915\source\repos\-1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojAssemblyReference.cache
+C:\Users\Administrator.SC-201901020915\source\repos\-1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Administrator.SC-201901020915\source\repos\-1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Administrator.SC-201901020915\source\repos\-1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.cache
+C:\Users\Administrator.SC-201901020915\source\repos\-1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator.SC-201901020915\source\repos\-1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Administrator.SC-201901020915\source\repos\-1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
