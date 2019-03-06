@@ -1,0 +1,15 @@
+
+.vs/WindowsFormsApplication2/v15/.suo
+.vs/WindowsFormsApplication2/v15/Server/sqlite3/db.lock
+*.ide
+*.ide-shm
+*.ide-wal
+*.lock
+*.exe
+*.pdb
+*.cache
+*.exe
+*.pdb
+*.txt
+*.Cache
+*.pdb
