@@ -3,3 +3,12 @@
 *.Cache
 *.exe
 *.lock
+*.exe
+*.pdb
+*.exe
+*.cache
+*.CopyComplete
+*.ide
+*.exe
+*.pdb
+*.exe

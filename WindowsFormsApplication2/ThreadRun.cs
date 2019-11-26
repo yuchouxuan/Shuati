@@ -65,7 +65,7 @@ public class ThreadRun
                          "http://www.hebgb.gov.cn/student/course!list.action?course.course_type=1&init=yes" };
         try
         {
-            if (login > 40)
+            if (login > 4)
             {
                 LogIN();
                 login = 0;
@@ -84,12 +84,14 @@ public class ThreadRun
     }
     public  static void HartBit()
     {
-        String url = "http://www.hebgb.gov.cn/portal/study!start.action?id="+UrlList[0];
+                     
+        String url = "http://www.hebgb.gov.cn/portal/study!play.action?id=" + UrlList[0];
 
         try
         {
             Func = 2;
             fm.webBrowser2.Navigate(url);
+           
             
         }
         catch { }
@@ -101,17 +103,16 @@ public class ThreadRun
       
         while (true) { 
 
-            if (count > 300)
-            {
+            
                 GetList();
+                Thread.Sleep(5000);
                 count = 0;
-            }
-
-            if (UrlList.Count > 0)
-            {
-                HartBit();
-            }
-            Thread.Sleep(200);
+                if (UrlList.Count > 0)
+                {
+                    HartBit();
+                    
+                }
+            Thread.Sleep(300000);
             count++;
         }
         

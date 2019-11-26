@@ -17,3 +17,14 @@ C:\Users\Administrator.SC-201901020915\source\repos\-1\WindowsFormsApplication2\
 C:\Users\Administrator.SC-201901020915\source\repos\-1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CoreCompileInputs.cache
 C:\Users\Administrator.SC-201901020915\source\repos\-1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
 C:\Users\Administrator.SC-201901020915\source\repos\-1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Administrator.SC-201902280856\source\repos\-1\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Administrator.SC-201902280856\source\repos\-1\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Administrator.SC-201902280856\source\repos\-1\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Administrator.SC-201902280856\source\repos\-1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojAssemblyReference.cache
+C:\Users\Administrator.SC-201902280856\source\repos\-1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Administrator.SC-201902280856\source\repos\-1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Administrator.SC-201902280856\source\repos\-1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.cache
+C:\Users\Administrator.SC-201902280856\source\repos\-1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Administrator.SC-201902280856\source\repos\-1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Administrator.SC-201902280856\source\repos\-1\WindowsFormsApplication2\bin\Debug\Microsoft.mshtml.dll
+C:\Users\Administrator.SC-201902280856\source\repos\-1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CopyComplete

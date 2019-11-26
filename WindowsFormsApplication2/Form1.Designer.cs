@@ -38,6 +38,8 @@
             this.textBox3 = new System.Windows.Forms.TextBox();
             this.timer1 = new System.Windows.Forms.Timer(this.components);
             this.webBrowser2 = new System.Windows.Forms.WebBrowser();
+            this.tb4 = new System.Windows.Forms.TextBox();
+            this.button2 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // textBox1
@@ -86,7 +88,7 @@
             // 
             // webBrowser1
             // 
-            this.webBrowser1.Location = new System.Drawing.Point(16, 58);
+            this.webBrowser1.Location = new System.Drawing.Point(12, 41);
             this.webBrowser1.MinimumSize = new System.Drawing.Size(20, 20);
             this.webBrowser1.Name = "webBrowser1";
             this.webBrowser1.Size = new System.Drawing.Size(937, 680);
@@ -101,7 +103,7 @@
             this.textBox3.Multiline = true;
             this.textBox3.Name = "textBox3";
             this.textBox3.ScrollBars = System.Windows.Forms.ScrollBars.Both;
-            this.textBox3.Size = new System.Drawing.Size(283, 486);
+            this.textBox3.Size = new System.Drawing.Size(283, 404);
             this.textBox3.TabIndex = 6;
             // 
             // timer1
@@ -116,12 +118,37 @@
             this.webBrowser2.Name = "webBrowser2";
             this.webBrowser2.Size = new System.Drawing.Size(283, 188);
             this.webBrowser2.TabIndex = 7;
+            this.webBrowser2.DocumentCompleted += new System.Windows.Forms.WebBrowserDocumentCompletedEventHandler(this.webBrowser2_DocumentCompleted);
+            // 
+            // tb4
+            // 
+            this.tb4.Location = new System.Drawing.Point(969, 468);
+            this.tb4.MaxLength = 2147483647;
+            this.tb4.Multiline = true;
+            this.tb4.Name = "tb4";
+            this.tb4.ScrollBars = System.Windows.Forms.ScrollBars.Both;
+            this.tb4.Size = new System.Drawing.Size(283, 76);
+            this.tb4.TabIndex = 8;
+            this.tb4.Text = "$(\"#mask\").remove();\r\n$(\".continue\").remove();\r\nplayer.continuePlay();\r\n";
+            // 
+            // button2
+            // 
+            this.button2.Location = new System.Drawing.Point(1042, 11);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(75, 23);
+            this.button2.TabIndex = 9;
+            this.button2.Text = "button2";
+            this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.AutoSize = true;
             this.ClientSize = new System.Drawing.Size(1264, 761);
+            this.Controls.Add(this.button2);
+            this.Controls.Add(this.tb4);
             this.Controls.Add(this.webBrowser2);
             this.Controls.Add(this.textBox3);
             this.Controls.Add(this.webBrowser1);
@@ -131,7 +158,6 @@
             this.Controls.Add(this.textBox2);
             this.Controls.Add(this.textBox1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
-            this.MaximizeBox = false;
             this.Name = "Form1";
             this.Text = "Form1";
             this.ResumeLayout(false);
@@ -148,7 +174,9 @@
         public System.Windows.Forms.WebBrowser webBrowser1;
         private System.Windows.Forms.TextBox textBox3;
         private System.Windows.Forms.Timer timer1;
-        public System.Windows.Forms.WebBrowser webBrowser2;
+        public  System.Windows.Forms.WebBrowser webBrowser2;
+        private System.Windows.Forms.TextBox tb4;
+        private System.Windows.Forms.Button button2;
     }
 }
 
