@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 *.Cache
 *.Cache
 *.exe
@@ -12,3 +13,21 @@
 *.exe
 *.pdb
 *.exe
+=======
+*.suo
+*.lock
+*.ide
+*.ide-shm
+*.ide-wal
+*.exe
+*.pdb
+*.cache
+*.exe
+*.pdb
+*.txt
+*.Cache
+*.pdb
+>>>>>>> 0d05f7b8f8ba84795bd180892a41bd13b6fe1be3
+.vs/WindowsFormsApplication2/v16/.suo
+*.exe
+.vs/WindowsFormsApplication2/v16/.suo

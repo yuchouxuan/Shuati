@@ -7,6 +7,7 @@ c:\users\雨愁轩\documents\visual studio 2015\Projects\WindowsFormsApplication
 c:\users\雨愁轩\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
 c:\users\雨愁轩\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
 c:\users\雨愁轩\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+<<<<<<< HEAD
 C:\Users\Administrator.SC-201901020915\source\repos\-1\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
 C:\Users\Administrator.SC-201901020915\source\repos\-1\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
 C:\Users\Administrator.SC-201901020915\source\repos\-1\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
@@ -28,3 +29,15 @@ C:\Users\Administrator.SC-201902280856\source\repos\-1\WindowsFormsApplication2\
 C:\Users\Administrator.SC-201902280856\source\repos\-1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
 C:\Users\Administrator.SC-201902280856\source\repos\-1\WindowsFormsApplication2\bin\Debug\Microsoft.mshtml.dll
 C:\Users\Administrator.SC-201902280856\source\repos\-1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CopyComplete
+=======
+D:\Mycode\-1\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\Mycode\-1\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\Mycode\-1\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\Mycode\-1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojAssemblyReference.cache
+D:\Mycode\-1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+D:\Mycode\-1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\Mycode\-1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.cache
+D:\Mycode\-1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CoreCompileInputs.cache
+D:\Mycode\-1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\Mycode\-1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+>>>>>>> 0d05f7b8f8ba84795bd180892a41bd13b6fe1be3
