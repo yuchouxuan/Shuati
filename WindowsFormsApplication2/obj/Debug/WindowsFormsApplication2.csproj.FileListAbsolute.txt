@@ -41,3 +41,16 @@ D:\Mycode\-1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.
 D:\Mycode\-1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
 D:\Mycode\-1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
 >>>>>>> 0d05f7b8f8ba84795bd180892a41bd13b6fe1be3
+Z:\PLab\Shuati\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+Z:\PLab\Shuati\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+Z:\PLab\Shuati\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+Z:\PLab\Shuati\WindowsFormsApplication2\bin\Debug\Microsoft.mshtml.dll
+Z:\PLab\Shuati\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.AssemblyReference.cache
+Z:\PLab\Shuati\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.SuggestedBindingRedirects.cache
+Z:\PLab\Shuati\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+Z:\PLab\Shuati\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+Z:\PLab\Shuati\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.cache
+Z:\PLab\Shuati\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CoreCompileInputs.cache
+Z:\PLab\Shuati\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CopyComplete
+Z:\PLab\Shuati\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+Z:\PLab\Shuati\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
