@@ -9,7 +9,7 @@ using WindowsFormsApplication2;
 public class ThreadRun
 {
     public static String uid = "";
-    public static String pws = "888888";
+    public static String pws = "";
     public static String ret0;
     public static List<String> UrlList;
     private static   Form1  fm  ;
